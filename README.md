@@ -5,7 +5,7 @@
 在线地址：
 
 ```text
-https://LuoHuilin3055.github.io/marxism-quiz-app/
+https://clairisl.github.io/marxism-quiz-app/
 ```
 
 ## 功能
@@ -27,7 +27,7 @@ https://LuoHuilin3055.github.io/marxism-quiz-app/
 手机浏览器打开：
 
 ```text
-https://LuoHuilin3055.github.io/marxism-quiz-app/
+https://clairisl.github.io/marxism-quiz-app/
 ```
 
 然后可以添加到手机桌面：
@@ -116,7 +116,7 @@ git push origin main
 部署状态查看：
 
 ```text
-https://github.com/LuoHuilin3055/marxism-quiz-app/actions
+https://github.com/ClairisL/marxism-quiz-app/actions
 ```
 
 ## 项目结构
@@ -160,7 +160,7 @@ python .\scripts\extract_questions.py
 确认地址必须完整包含仓库名：
 
 ```text
-https://LuoHuilin3055.github.io/marxism-quiz-app/
+https://clairisl.github.io/marxism-quiz-app/
 ```
 
 如果刚刚部署完成，等待几十秒后刷新页面。
